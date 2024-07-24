@@ -1,7 +1,0 @@
-this is a text txt file
-this will no go into second repository 
-system changing git diff before
-so now its after adding into staged area
-goodo gooddo
-
-
